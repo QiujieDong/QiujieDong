@@ -16,7 +16,4 @@ Here are some ideas to get you started:
 -->
 My name is **Qiujie_Dong**, a Ph.D. candidate in computer science. 
 
-- 🔭 I’m currently working at the School of Computer Science and Technology, Shandong University.
-- 🌱 I’m currently learning computer graphics via deep learning.
-
 ![QiujieDong's github stats](https://github-readme-stats.vercel.app/api?username=QiujieDong&show_icons=true&icon_color=38a0ff&bg_color=172f45&title_color=bddfff&text_color=6e93b5) 
