@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is **Qiujie_Dong**, a Ph.D. candidate in computer science. 
+My name is **Qiujie Dong**, a Ph.D. candidate in computer science. 
 
 - 🔭 I’m currently working at the School of Computer Science and Technology, Shandong University.
 - 🌱 I’m currently learning computer graphics via deep learning.
