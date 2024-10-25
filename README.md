@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is **Qiujie Dong**, a PostDoc in computer science. 
 
-- 🔭 I’m currently working at the Department of Computer Science, The University of Hong Kong.
-- 🌱 I’m currently learning computer graphics via deep learning.
+- 🔭 I am currently assuming duty with the School of Computing and Data Science at The University of Hong Kong.
+- 🌱 I am currently learning computer graphics via deep learning.
 
 ![QiujieDong's github stats](https://github-readme-stats.vercel.app/api?username=QiujieDong&show_icons=true&icon_color=38a0ff&bg_color=172f45&title_color=bddfff&text_color=6e93b5) 
