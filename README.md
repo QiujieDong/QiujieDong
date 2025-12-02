@@ -19,4 +19,5 @@ My name is **Qiujie Dong**, a PostDoc in computer science.
 - 🔭 I am a PostDoc at the School of Computing and Data Science, The University of Hong Kong.
 - 🌱 I am currently learning computer graphics via deep learning.
 
-[![QiujieDong's github stats](https://github-readme-stats.vercel.app/api?username=QiujieDong)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![QiujieDong's github stats](https://github-readme-stats.vercel.app/api?username=QiujieDong)](https://github.com/anuraghazra/github-readme-stats)
+-->
